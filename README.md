@@ -26,4 +26,4 @@ Currently diving into new frameworks, savoring the art of cooking, and exploring
 
 Join me on this journey of code, communication, and creativity! 🚀✨
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,emotion,tailwind,svelte,go,ruby,rails,nestjs,postgresql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,emotion,tailwind,svelte,go,ruby,rails,nestjs,postgresql&perline=4)](https://skillicons.dev)
