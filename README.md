@@ -22,3 +22,5 @@ Currently exploring new frameworks, savoring the art of cooking, and navigating 
 💼 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,emotion,tailwind,react,vite,angular,svelte,go,ruby,rails,nestjs,postgresql,docker,jest,git,&perline=6)](https://skillicons.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaqen)](https://github.com/kamaqen/github-readme-stats)
