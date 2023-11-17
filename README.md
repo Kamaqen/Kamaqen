@@ -23,4 +23,4 @@ Currently exploring new frameworks, savoring the art of cooking, and navigating 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,emotion,tailwind,react,vite,angular,svelte,go,ruby,rails,nestjs,postgresql,docker,jest,git,&perline=6)](https://skillicons.dev)
 
-[![Kamaqen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaqen&show_icons=true&theme=tokyonight)](https://github.com/kamaqen/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
