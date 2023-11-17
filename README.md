@@ -2,28 +2,22 @@
 
 Full Stack Developer 🚀 | Interpreter 🗣️ | Musician 🎵
 
-Welcome to my corner of the code! I call Lima, Perú my base, and I thrive on the intersection of languages, technology, and creativity.
+Based in Lima, Perú, I navigate the realms of code, languages, and melody.
 
-#### 🌐 Tech Enthusiast
+🌐 Tech Explorer
+I code, learn, and craft seamless experiences with various frameworks.
 
-As a Full Stack Developer, I'm on a perpetual journey of learning and exploration. From mastering frameworks to crafting seamless user experiences, I'm always up for a challenge.
+🗣️ Multilingual Connector
+As an interpreter, I bridge gaps through effective communication.
 
-#### 🗣️ Multilingual Maestro
+🎶 Harmony Seeker
+Beyond coding, I find balance in music—a dedicated musician seeking harmony.
 
-Beyond coding, I'm also an interpreter—bridging gaps through language. Whether it's in the tech realm or beyond, effective communication is my forte.
+🌍 Remote Work Advocate
+A remote work enthusiast with leadership experience, let's build something amazing, no matter where you are.
 
-#### 🎶 Harmony Seeker
+📚 Always Learning
+Currently exploring new frameworks, savoring the art of cooking, and navigating the paths to personal success.
 
-In the world of bits and bytes, I find balance in music. A dedicated musician, I believe that rhythm and code have more in common than meets the eye.
-
-#### 🌍 Remote Work Advocate
-
-Embracing the flexibility of remote work, I bring my leadership experience to collaborative projects. Together, let's build something amazing, no matter where in the world you are.
-
-#### 📚 Always Learning
-
-Currently diving into new frameworks, savoring the art of cooking, and exploring the pathways to personal success. Because growth never goes out of style.
-
-Join me on this journey of code, communication, and creativity! 🚀✨
-
+💼 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,emotion,tailwind,react,vite,angular,svelte,go,ruby,rails,nestjs,postgresql,docker,jest,git,&perline=6)](https://skillicons.dev)
