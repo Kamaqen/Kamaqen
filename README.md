@@ -1,5 +1,3 @@
-Absolutely, let's make your GitHub about section more engaging and appealing. Here's a revised version:
-
 ### Hey, 👋 I'm Jorge!
 
 Full Stack Developer 🚀 | Interpreter 🗣️ | Musician 🎵
