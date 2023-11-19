@@ -19,6 +19,9 @@ A remote work enthusiast with leadership experience, let's build something amazi
 📚 Always Learning --
 Currently exploring new frameworks, savoring the art of cooking, and navigating the paths to personal success.
 
+🔍 Innovation & Blockchain --
+Passionate about innovation, my next move involves diving into blockchain technology, shaping the decentralized future.
+
 💼 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,emotion,tailwind,react,vite,angular,svelte,go,ruby,rails,nestjs,postgresql,docker,jest,git,&perline=6)](https://skillicons.dev)
