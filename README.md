@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 ### Hey, 👋 I'm Jorge!
 
 Full Stack Developer 🚀 | Interpreter 🗣️ | Musician 🎵
@@ -30,7 +28,4 @@ Passionate about innovation, my next move involves diving into blockchain techno
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamaqen&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamaqen&repo=JS-Fundamentals&theme=transparent)](https://github.com/Kamaqen/JS-Fundamentals)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jorgecapcha" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pe.linkedin.com/in/jorgecapcha?trk=profile-badge">Jorge Capcha</a></div>
-              
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamaqen&repo=JS-Fundamentals&theme=transparent)](https://github.com/Kamaqen/JS-Fundamentals)             
