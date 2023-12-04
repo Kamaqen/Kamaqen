@@ -28,4 +28,4 @@ Passionate about innovation, my next move involves diving into blockchain techno
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamaqen&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamaqen&repo=JS-Fundamentals&theme=transparent)](https://github.com/Kamaqen/JS-Fundamentals)             
+// [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamaqen&repo=JS-Fundamentals&theme=transparent)](https://github.com/Kamaqen/JS-Fundamentals)             
