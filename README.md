@@ -22,7 +22,7 @@ Currently exploring new frameworks, savoring the art of cooking, and navigating 
 🔍 Innovation & Blockchain --
 Passionate about innovation, my next move involves diving into blockchain technology, shaping the decentralized future.
 
-💼 Skills
+💼 Skills --
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,emotion,tailwind,react,vite,svelte,go,ruby,rails,nestjs,postgresql,docker,jest,git,&perline=6)](https://skillicons.dev)
 
