@@ -1,4 +1,4 @@
-### Hey, 👋 I'm Jorge!
+### Hello, world, 👋 I'm Jorge!
 
 Full Stack Developer 🚀 | Interpreter 🗣️ | Musician 🎵
 
