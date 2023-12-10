@@ -17,7 +17,7 @@ Beyond coding, I find balance in music—a dedicated musician seeking harmony.
 A remote work enthusiast with leadership experience, let's build something amazing, no matter where you are.
 
 📚 Always Learning --
-Currently exploring new frameworks, savoring the art of cooking, and navigating the paths to personal success.
+Currently exploring new frameworks, savoring the art of cooking and mixology, and navigating the paths to personal success.
 
 🔍 Innovation & Blockchain --
 Passionate about innovation, my next move involves diving into blockchain technology, shaping the decentralized future.
