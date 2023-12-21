@@ -2,7 +2,7 @@
 
 Full Stack Developer 🚀 | Interpreter 🗣️ | Musician 🎵
 
-Based in Lima, Perú, I navigate the realms of code, languages, and melody.
+Based in Lima, Peru, I navigate the realms of code, languages, and melody.
 
 🌐 Tech Explorer --
 I code, learn, and craft seamless experiences with various frameworks.
@@ -11,7 +11,7 @@ I code, learn, and craft seamless experiences with various frameworks.
 As an interpreter, I bridge gaps through effective communication.
 
 🎶 Harmony Seeker --
-Beyond coding, I find balance in music—a dedicated musician seeking harmony.
+Beyond coding, I find balance in music — a dedicated musician seeking harmony.
 
 🌍 Remote Work Advocate --
 A remote work enthusiast with leadership experience, let's build something amazing, no matter where you are.
@@ -20,7 +20,7 @@ A remote work enthusiast with leadership experience, let's build something amazi
 Currently exploring new frameworks, savoring the art of cooking and mixology, and navigating the paths to personal success.
 
 🔍 Innovation & Blockchain --
-Passionate about innovation, my next move involves diving into blockchain technology, shaping the decentralized future.
+Passionate about innovation, my next move involves diving into smart contracts and blockchain technology, shaping the decentralized future.
 
 💼 Skills
 
