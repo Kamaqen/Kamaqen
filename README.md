@@ -7,7 +7,7 @@ Based in Lima, Peru, I navigate the realms of code, languages, and melody.
 🌐 Tech Explorer --
 I code, learn, and craft seamless experiences with various frameworks.
 
-🗣️ Multilingual Connector --
+🗣️ Bilingual Connector --
 As an interpreter, I bridge gaps through effective communication.
 
 🎶 Harmony Seeker --
