@@ -24,7 +24,7 @@ Passionate about innovation, my next move involves diving into smart contracts a
 
 💼 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,emotion,tailwind,angular,react,vite,svelte,sqlserver,ruby,rails,nestjs,postgresql,docker,jest,git,solidity,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,emotion,tailwind,angular,react,vite,svelte,rxjs,ruby,rails,nestjs,postgresql,docker,jest,git,solidity,&perline=6)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamaqen&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
